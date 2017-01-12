@@ -1,0 +1,71 @@
+h1
+{
+	text-align: center;
+	font-size: 50px;
+}
+
+body 
+{
+	background-color: rgb(104,187,285);
+}
+
+#header
+{
+	
+	margin-top: 5px;
+}
+
+#container
+{
+	
+	margin: 5px;
+	display: flex;
+	
+}
+
+#left-box
+{
+	
+	width: 250px;
+	margin: 5px 5px 5px 5px;
+	display: flex; 
+	background-color: rgb(9,30,45);
+
+}
+.flotte
+{
+	float: left;
+	margin: 5px 5px;
+}
+
+p1
+{
+	color: white;
+}
+#right-box
+{
+	
+	width: 750px;
+	margin: 15px 5px 5px 5px;
+	display: flex;
+	flex-direction: column;
+}
+h2{
+	text-align: center;
+}
+
+#experiences-box #studies-box
+{
+	width: 100%
+	margin: 15px 5px 5px 5px;
+	padding: 15px;
+	flex-direction: column;
+	background-color: white;
+
+}
+#experience1 #experience2 #study1 #study2
+{
+	
+	margin: 15px 5px 5px 5px;
+	padding: 5px;
+}
